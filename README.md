@@ -1,8 +1,8 @@
 # hackmit-puzzle-2017
 
-[Puzzle repo for HackMIT 2017!][2017-repo]
+Puzzle repo for HackMIT 2017! [:car:][hackmit-puzzle-2017]
 
-## [Read the puzzle writeup here!][2017-write]
+**[Read the puzzle writeup here!][2017-write]**
 
 Source code for every puzzle is in a submodule.
 
