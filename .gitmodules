@@ -1,0 +1,18 @@
+[submodule "hackmit-splash-2017"]
+	path = hackmit-splash-2017
+	url = https://github.com/techx/hackmit-splash-2017
+[submodule "hackmit-puzzle-2017-timewarp"]
+	path = hackmit-puzzle-2017-timewarp
+	url = https://github.com/techx/hackmit-puzzle-2017-timewarp
+[submodule "hackmit-puzzle-2017-hack-store"]
+	path = hackmit-puzzle-2017-hack-store
+	url = https://github.com/techx/hackmit-puzzle-2017-hack-store
+[submodule "hackmit-puzzle-2017-hackcodes"]
+	path = hackmit-puzzle-2017-hackcodes
+	url = https://github.com/techx/hackmit-puzzle-2017-hackcodes
+[submodule "hackmit-puzzle-2017-tinbot"]
+	path = hackmit-puzzle-2017-tinbot
+	url = https://github.com/techx/hackmit-puzzle-2017-tinbot
+[submodule "hackmit-puzzle-2017-bttp-captcha"]
+	path = hackmit-puzzle-2017-bttp-captcha
+	url = https://github.com/techx/hackmit-puzzle-2017-bttp-captcha
