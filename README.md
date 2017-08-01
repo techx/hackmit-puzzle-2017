@@ -1,4 +1,5 @@
-# hackmit-puzzle-2017
+# [hackmit-puzzle-2017][2017-repo]
+
 Puzzle repo for HackMIT 2017 :car:
 
 ## [Read the puzzle writeup here!][2017-write]
@@ -12,15 +13,15 @@ Source code for every puzzle is in a submodule.
 - Tinbot ([hackmit-puzzle-2017-tinbot][tinbot])
 - Captcha ([hackmit-puzzle-2017-bttp-captcha][captcha])
 
+# Past years' puzzles
+
+- 2016: HaXKCD ([writeup][2016-write], [source code][2016-repo])
+- 2015: DogeMIT ([writeup][2015-write], [source code][2015-repo])
+- 2014: Fancy Cat Club ([writeup][2014-write], [source code][2014-repo])
+
 ## License
 
 [MIT][license]
-
-# Past years' puzzles
-
-- 2016: HaXKCD [writeup][2016-write] [source code][2016-repo]
-- 2015: DogeMIT [writeup][2015-write] [source code][2015-repo]
-- 2014: Fancy Cat Club [writeup][2014-write] [source code][2014-repo]
 
 [license]: https://opensource.org/licenses/MIT
 [splash]: https://github.com/techx/hackmit-splash-2017/tree/master
