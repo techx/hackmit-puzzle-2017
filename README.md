@@ -1,6 +1,6 @@
-# [hackmit-puzzle-2017][2017-repo]
+# hackmit-puzzle-2017
 
-Puzzle repo for HackMIT 2017 :car:
+[Puzzle repo for HackMIT 2017!][2017-repo]
 
 ## [Read the puzzle writeup here!][2017-write]
 
